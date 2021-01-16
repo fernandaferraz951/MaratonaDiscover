@@ -1,2 +1,2 @@
 # MaratonaDiscover
-Projeto em HTML, CS e JS dev.finance$
+Projeto em HTML, CSS e JS dev.finance$
